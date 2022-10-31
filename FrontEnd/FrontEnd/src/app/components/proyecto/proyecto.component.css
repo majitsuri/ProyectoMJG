@@ -1,0 +1,30 @@
+.row{
+    background-color: #a1b5cb;
+    padding: 20px;
+}
+
+.contenedor{
+    width: auto;
+}
+
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+
+.img-proyecto{
+    box-shadow: 10px 10px 30px rgb(231, 45, 231);
+    
+}
+.img-club{
+    box-shadow: 10px 10px 30px rgb(231, 45, 231);
+    
+}
+#corazones{
+    font-size: 20px;
+    font-style: oblique;
+}
+#juegos{
+    font-size: 20px;
+    font-style: oblique;
+}
