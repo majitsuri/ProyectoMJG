@@ -1,0 +1,45 @@
+.row{
+    padding: 20px;
+}
+
+div {
+    background-color: #a1b5cb;
+}
+h1, h3 {
+    display: inline;
+}
+.unt{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 2px -2px 5px #999;
+}
+.uno{
+    box-shadow: 2px -2px 5px #999;
+}
+.dos{
+    box-shadow: 2px -2px 5px #999;
+}
+.tres{
+    box-shadow: 2px -2px 5px #999;
+}
+.cuatro{
+    box-shadow: 2px -2px 5px #999;
+}
+#quimica{
+    font-size: 20px;
+    font-style: oblique;
+}
+#bio{
+    font-size: 20px;
+    font-style: oblique;
+}
+#info{
+    font-size: 20px;
+    font-style: oblique;
+}
+#curso{
+    font-size: 20px;
+    font-style: oblique;
+}
